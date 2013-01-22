@@ -1,0 +1,7 @@
+﻿({
+	mainConfigFile: '../bootstrapper.js',
+    include: 'scalejs.text-underscore',
+    exclude: [
+        'scalejs!core'
+    ]
+})

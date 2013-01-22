@@ -1,0 +1,9 @@
+
+/scalejs.text-underscore/build
+/scalejs.text-underscore/obj
+/scalejs.text-underscore/scalejs.text-underscore.csproj.user
+/scalejs.text-underscore.test/build
+/scalejs.text-underscore.test/obj
+/packages
+*.suo
+/TestResults
